@@ -1,0 +1,1 @@
+Code File//1print (Ò What is GIT stand for ? Ò)Answer = input (Ô Enter your answer:_____  Ô)//2print (Ò What command will you use to initialize git repository ? Ò)Answer = input (Ô Enter your answer:_____  Ô)//3print (Ò What command will you use to have a copy of a remote repository to your local machine ? Ò)Answer = input (Ô Enter your answer:_____  Ô)
