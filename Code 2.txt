@@ -1,1 +1,18 @@
-Code File//1print (Ò What is GIT stand for ? Ò)Answer = input (Ô Enter your answer:_____  Ô)//2print (Ò It is a request to merge changes from one branch into another (usually into main or develop) ? Ò)Answer = input (Ô Enter your answer:_____  Ô)//3print (Ò What command will you use to save your staged changes with a message indicating a change ? Ò)Answer = input (Ô Enter your answer:_____  Ô)
+Code File
+
+//1
+print (ï¿½ What is GIT stand for ? ï¿½)
+Answer = input (ï¿½ Enter your answer: Global Information Tracker  ï¿½)
+
+
+
+//2
+print (ï¿½ It is a request to merge changes from one branch into another (usually into main or develop) ? ï¿½)
+Answer = input (ï¿½ Enter your answer: Pull Request  ï¿½)
+
+
+
+//3
+print (ï¿½ What command will you use to save your staged changes with a message indicating a change ? ï¿½)
+Answer = input (ï¿½ Enter your answer: git commit  ï¿½)
+
