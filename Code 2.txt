@@ -1,19 +1,19 @@
 Code File
 
 //1
-print (� What is GIT stand for ? �)
-Answer = input (� Enter your answer: Global Information Tracker  �)
+print ( What is GIT stand for ?  )
+Answer = input (  Enter your answer: Global Information Tracker  )
 
 
 
 //2
-print (� It is a request to merge changes from one branch into another (usually into main or develop) ? �)
-Answer = input (� Enter your answer: Pull Request  �)
+print ( It is a request to merge changes from one branch into another (usually into main or develop) ? )
+Answer = input (  Enter your answer: Pull Request  )
 
 
 
 //3
-print (� What command will you use to save your staged changes with a message indicating a change ? �)
-Answer = input (� Enter your answer: git commit  �)
+print ( What command will you use to save your staged changes with a message indicating a change ? )
+Answer = input (  Enter your answer: git commit  )
 
 
